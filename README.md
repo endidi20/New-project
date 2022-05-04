@@ -1,4 +1,4 @@
-# New-project
+# Password-evaluator project
 A password strength evaluator
 A program that evaluates potential passwordsmto determine how strong they are.
 The program includes the following four functions:
